@@ -1,0 +1,17 @@
+[
+    { 
+        "id": 1, 
+        "name": "Simulador de Consumo de Bateria", 
+        "description": "Este projeto consiste no desenvolvimento de um codigo em python para mostrar de forma clara e fazer uma projeção dos gases para que todos entendam",
+        "image": "/assets/python.svg",
+        "video": "https://www.youtube.com/watch?v=QKTiAYQEh80"
+    },
+    { 
+        "id": 2, 
+        "name": "Verificação de Temperatura do Carro", 
+        "description": "Este projeto utiliza um ESP32 para monitorar a temperatura de um carro ao passar por um sensor de proximidade. As informações de temperatura são exibidas em um display LCD, permitindo um feedback visual rápido e eficiente.",
+        "image": "/assets/c++.svg",
+        "projeto": "https://wokwi.com/projects/410505332837468161",
+        "video": "https://youtu.be/wj4XWAFnmSw"
+    }
+]
